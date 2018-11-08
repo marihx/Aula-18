@@ -1,5 +1,5 @@
 # Aula-18
 
-## modelo de previcões com VAR
+## modelo de previsões com VAR
 
 ### 08/nov/2018
